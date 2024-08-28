@@ -1,1 +1,2 @@
 this is file b
+this is a change on featureA branch
