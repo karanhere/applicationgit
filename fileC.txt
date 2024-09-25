@@ -1,1 +1,2 @@
 this is file C
+this line is added now for a squash merge
