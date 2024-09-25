@@ -1,4 +1,5 @@
 this is file b
 this is a change on featureA branch
 this is second change made to featureA branch
-made a change to file b
+made a change to file
+This change if for squash merge
